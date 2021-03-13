@@ -1,0 +1,77 @@
+﻿Material Category,Material Type,Business Group,Employee Count,Total Disposed Tons,Material Tons Disposed,Percent of Disposal,Total Curbside Recycle Tons,Material Tons in Curbside Recycle,Percent of Curbside Recycle,Total Curbside Organics Tons,Material Tons in Curbside Organics,Percent of Curbside Organics,Total Other Diversion Tons,Material Tons in Other Diversion,Percent of Other Diversion,Material Tons Generated (Sum of all Streams),Percent of Total Generation
+Paper,Uncoated Corrugated Cardboard,Restaurants,8,19,0,2.0%,2,1,61.3%,1,0,1.0%,1,0,19.5%,2,7.8%
+Paper,Paper Bags,Restaurants,8,19,0,0.3%,2,0,0.3%,1,0,0.0%,1,0,0.0%,0,0.3%
+Paper,Newspaper,Restaurants,8,19,1,2.6%,2,0,0.3%,1,0,0.4%,1,0,0.4%,1,2.2%
+Paper,White Ledger Paper,Restaurants,8,19,0,0.7%,2,0,0.4%,1,0,0.0%,1,0,0.1%,0,0.6%
+Paper,Other Office Paper,Restaurants,8,19,0,0.3%,2,0,0.6%,1,0,0.0%,1,0,0.0%,0,0.3%
+Paper,Magazines and Catalogs,Restaurants,8,19,0,0.2%,2,0,0.4%,1,0,0.0%,1,0,0.0%,0,0.2%
+Paper,Phone Books and Directories,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Paper,Other Miscellaneous Paper - Compostable,Restaurants,8,19,0,0.6%,2,0,1.5%,1,0,0.9%,1,0,0.0%,0,0.7%
+Paper,Other Miscellaneous Paper - Other,Restaurants,8,19,0,2.1%,2,0,1.8%,1,0,0.0%,1,0,0.4%,0,1.9%
+Paper,Remainder / Composite Paper - Compostable,Restaurants,8,19,2,12.2%,2,0,0.9%,1,0,0.3%,1,0,0.0%,2,10.1%
+Paper,Remainder / Composite Paper - Other,Restaurants,8,19,1,5.0%,2,0,0.6%,1,0,0.3%,1,0,0.0%,1,4.2%
+Glass,Clear Glass Bottles and Containers,Restaurants,8,19,0,1.6%,2,0,5.2%,1,0,2.5%,1,0,5.9%,0,2.1%
+Glass,Green Glass Bottles and Containers,Restaurants,8,19,0,0.5%,2,0,5.4%,1,0,3.6%,1,0,13.4%,0,1.5%
+Glass,Brown Glass Bottles and Containers,Restaurants,8,19,0,0.5%,2,0,1.3%,1,0,0.8%,1,0,35.4%,0,1.6%
+Glass,Other Glass Colored Bottles and Containers,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Glass,Flat Glass,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Glass,Remainder / Composite Glass,Restaurants,8,19,0,0.2%,2,0,0.1%,1,0,0.0%,1,0,0.0%,0,0.2%
+Metal,Tin/Steel Cans,Restaurants,8,19,0,1.1%,2,0,2.4%,1,0,0.2%,1,0,1.4%,0,1.2%
+Metal,Major Appliances,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Metal,Used Oil Filters,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Metal,Other Ferrous,Restaurants,8,19,0,0.4%,2,0,0.0%,1,0,0.0%,1,0,0.1%,0,0.4%
+Metal,Aluminum Cans,Restaurants,8,19,0,0.1%,2,0,0.2%,1,0,0.0%,1,0,2.5%,0,0.2%
+Metal,Other Non-Ferrous,Restaurants,8,19,0,0.2%,2,0,0.1%,1,0,0.1%,1,0,0.0%,0,0.2%
+Metal,Remainder / Composite Metal,Restaurants,8,19,0,0.3%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.2%
+Electronics,Brown Goods,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Electronics,Computer-related Electronics,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.1%,0,0.0%
+Electronics,Other Small Consumer Electronics,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Electronics,Video Display Devices,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Plastic,PETE Plastic Containers,Restaurants,8,19,0,0.6%,2,0,2.6%,1,0,0.2%,1,0,0.1%,0,0.7%
+Plastic,HDPE Plastic Containers,Restaurants,8,19,0,0.6%,2,0,2.5%,1,0,0.0%,1,0,0.0%,0,0.7%
+Plastic,Miscellaneous Plastic Containers,Restaurants,8,19,0,0.4%,2,0,0.8%,1,0,0.1%,1,0,0.0%,0,0.4%
+Plastic,Plastic Trash Bags,Restaurants,8,19,1,3.3%,2,0,0.3%,1,0,0.1%,1,0,0.0%,1,2.7%
+Plastic,Plastic Grocery and Other Merchandise Bags,Restaurants,8,19,0,0.1%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.1%
+Plastic,Non-Bag Commercial and Industrial Packaging Film,Restaurants,8,19,0,0.0%,2,0,0.1%,1,0,0.1%,1,0,0.0%,0,0.0%
+Plastic,Film Products,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Plastic,Other Film - Other,Restaurants,8,19,1,3.3%,2,0,1.4%,1,0,0.8%,1,0,0.0%,1,2.9%
+Plastic,Durable Plastic Items - #2 and #5 Bulky Rigids,Restaurants,8,19,0,0.0%,2,0,1.4%,1,0,0.0%,1,0,0.1%,0,0.2%
+Plastic,Durable Plastic Items - Other,Restaurants,8,19,0,0.2%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.2%
+Plastic,Remainder / Composite Plastic,Restaurants,8,19,1,3.7%,2,0,0.5%,1,0,0.0%,1,0,0.0%,1,3.1%
+Other Organic,Food,Restaurants,8,19,10,50.8%,2,0,5.6%,1,1,73.2%,1,0,20.7%,11,47.2%
+Other Organic,Leaves and Grass,Restaurants,8,19,0,1.8%,2,0,0.0%,1,0,15.3%,1,0,0.0%,1,2.4%
+Other Organic,Prunings and Trimmings,Restaurants,8,19,0,0.4%,2,0,1.1%,1,0,0.0%,1,0,0.0%,0,0.4%
+Other Organic,Branches and Stumps,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Other Organic,Manures,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Other Organic,Textiles,Restaurants,8,19,0,0.7%,2,0,0.0%,1,0,0.2%,1,0,0.0%,0,0.6%
+Other Organic,Carpet,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Other Organic,Remainder / Composite Organic,Restaurants,8,19,0,1.2%,2,0,0.5%,1,0,0.0%,1,0,0.0%,0,1.0%
+Inerts and Other,Concrete,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Inerts and Other,Asphalt Paving,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Inerts and Other,Asphalt Roofing,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Inerts and Other,Clean Dimensional Lumber,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Inerts and Other,Clean Engineered Wood,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Inerts and Other,Clean Pallets & Crates,Restaurants,8,19,0,0.8%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.6%
+Inerts and Other,Other Wood Waste,Restaurants,8,19,0,0.4%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.4%
+Inerts and Other,Gypsum Board,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Inerts and Other,"Rock, Soil and Fines",Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Inerts and Other,Remainder / Composite Inerts and Other,Restaurants,8,19,0,0.0%,2,0,0.1%,1,0,0.0%,1,0,0.0%,0,0.0%
+Household Hazardous Waste (HHW),Paint,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Household Hazardous Waste (HHW),Vehicle and Equipment Fluids,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Household Hazardous Waste (HHW),Used Oil,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Household Hazardous Waste (HHW),Batteries,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Household Hazardous Waste (HHW),Remainder / Composite Household Hazardous,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Special Waste,Ash,Restaurants,8,19,0,0.6%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.5%
+Special Waste,Treated Medical Waste,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Special Waste,Bulky Items,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Special Waste,Tires,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Special Waste,Remainder / Composite Special Waste,Restaurants,8,19,0,0.0%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.0%
+Mixed Residue,Mixed Residue,Restaurants,8,19,0,0.1%,2,0,0.0%,1,0,0.0%,1,0,0.0%,0,0.1%
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,

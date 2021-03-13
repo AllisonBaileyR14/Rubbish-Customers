@@ -1,0 +1,1597 @@
+material_category,material_tons_generated_sum_of_all_streams,employee_count
+Paper,1,5
+Paper,0,5
+Paper,0,5
+Paper,0,5
+Paper,0,5
+Paper,0,5
+Paper,0,5
+Paper,0,5
+Paper,0,5
+Paper,1,5
+Paper,1,5
+Glass,0,5
+Glass,0,5
+Glass,0,5
+Glass,0,5
+Glass,0,5
+Glass,0,5
+Metal,0,5
+Metal,0,5
+Metal,0,5
+Metal,0,5
+Metal,0,5
+Metal,0,5
+Metal,0,5
+Electronics,0,5
+Electronics,0,5
+Electronics,0,5
+Electronics,0,5
+Plastic,0,5
+Plastic,0,5
+Plastic,0,5
+Plastic,0,5
+Plastic,0,5
+Plastic,0,5
+Plastic,0,5
+Plastic,0,5
+Plastic,0,5
+Plastic,0,5
+Plastic,0,5
+Other Organic,7,5
+Other Organic,0,5
+Other Organic,0,5
+Other Organic,0,5
+Other Organic,0,5
+Other Organic,0,5
+Other Organic,0,5
+Other Organic,0,5
+Inerts and Other,0,5
+Inerts and Other,0,5
+Inerts and Other,0,5
+Inerts and Other,0,5
+Inerts and Other,0,5
+Inerts and Other,0,5
+Inerts and Other,0,5
+Inerts and Other,0,5
+Inerts and Other,0,5
+Inerts and Other,0,5
+Household Hazardous Waste (HHW),0,5
+Household Hazardous Waste (HHW),0,5
+Household Hazardous Waste (HHW),0,5
+Household Hazardous Waste (HHW),0,5
+Household Hazardous Waste (HHW),0,5
+Special Waste,0,5
+Special Waste,0,5
+Special Waste,0,5
+Special Waste,0,5
+Special Waste,0,5
+Mixed Residue,0,5
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+Paper,1,6
+Paper,0,6
+Paper,0,6
+Paper,0,6
+Paper,0,6
+Paper,0,6
+Paper,0,6
+Paper,0,6
+Paper,0,6
+Paper,2,6
+Paper,1,6
+Glass,0,6
+Glass,0,6
+Glass,0,6
+Glass,0,6
+Glass,0,6
+Glass,0,6
+Metal,0,6
+Metal,0,6
+Metal,0,6
+Metal,0,6
+Metal,0,6
+Metal,0,6
+Metal,0,6
+Electronics,0,6
+Electronics,0,6
+Electronics,0,6
+Electronics,0,6
+Plastic,0,6
+Plastic,0,6
+Plastic,0,6
+Plastic,0,6
+Plastic,0,6
+Plastic,0,6
+Plastic,0,6
+Plastic,1,6
+Plastic,0,6
+Plastic,0,6
+Plastic,1,6
+Other Organic,8,6
+Other Organic,0,6
+Other Organic,0,6
+Other Organic,0,6
+Other Organic,0,6
+Other Organic,0,6
+Other Organic,0,6
+Other Organic,0,6
+Inerts and Other,0,6
+Inerts and Other,0,6
+Inerts and Other,0,6
+Inerts and Other,0,6
+Inerts and Other,0,6
+Inerts and Other,0,6
+Inerts and Other,0,6
+Inerts and Other,0,6
+Inerts and Other,0,6
+Inerts and Other,0,6
+Household Hazardous Waste (HHW),0,6
+Household Hazardous Waste (HHW),0,6
+Household Hazardous Waste (HHW),0,6
+Household Hazardous Waste (HHW),0,6
+Household Hazardous Waste (HHW),0,6
+Special Waste,0,6
+Special Waste,0,6
+Special Waste,0,6
+Special Waste,0,6
+Special Waste,0,6
+Mixed Residue,0,6
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+Paper,2,7
+Paper,0,7
+Paper,0,7
+Paper,0,7
+Paper,0,7
+Paper,0,7
+Paper,0,7
+Paper,0,7
+Paper,0,7
+Paper,2,7
+Paper,1,7
+Glass,0,7
+Glass,0,7
+Glass,0,7
+Glass,0,7
+Glass,0,7
+Glass,0,7
+Metal,0,7
+Metal,0,7
+Metal,0,7
+Metal,0,7
+Metal,0,7
+Metal,0,7
+Metal,0,7
+Electronics,0,7
+Electronics,0,7
+Electronics,0,7
+Electronics,0,7
+Plastic,0,7
+Plastic,0,7
+Plastic,0,7
+Plastic,1,7
+Plastic,0,7
+Plastic,0,7
+Plastic,0,7
+Plastic,1,7
+Plastic,0,7
+Plastic,0,7
+Plastic,1,7
+Other Organic,10,7
+Other Organic,0,7
+Other Organic,0,7
+Other Organic,0,7
+Other Organic,0,7
+Other Organic,0,7
+Other Organic,0,7
+Other Organic,0,7
+Inerts and Other,0,7
+Inerts and Other,0,7
+Inerts and Other,0,7
+Inerts and Other,0,7
+Inerts and Other,0,7
+Inerts and Other,0,7
+Inerts and Other,0,7
+Inerts and Other,0,7
+Inerts and Other,0,7
+Inerts and Other,0,7
+Household Hazardous Waste (HHW),0,7
+Household Hazardous Waste (HHW),0,7
+Household Hazardous Waste (HHW),0,7
+Household Hazardous Waste (HHW),0,7
+Household Hazardous Waste (HHW),0,7
+Special Waste,0,7
+Special Waste,0,7
+Special Waste,0,7
+Special Waste,0,7
+Special Waste,0,7
+Mixed Residue,0,7
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+Paper,2,8
+Paper,0,8
+Paper,1,8
+Paper,0,8
+Paper,0,8
+Paper,0,8
+Paper,0,8
+Paper,0,8
+Paper,0,8
+Paper,2,8
+Paper,1,8
+Glass,0,8
+Glass,0,8
+Glass,0,8
+Glass,0,8
+Glass,0,8
+Glass,0,8
+Metal,0,8
+Metal,0,8
+Metal,0,8
+Metal,0,8
+Metal,0,8
+Metal,0,8
+Metal,0,8
+Electronics,0,8
+Electronics,0,8
+Electronics,0,8
+Electronics,0,8
+Plastic,0,8
+Plastic,0,8
+Plastic,0,8
+Plastic,1,8
+Plastic,0,8
+Plastic,0,8
+Plastic,0,8
+Plastic,1,8
+Plastic,0,8
+Plastic,0,8
+Plastic,1,8
+Other Organic,11,8
+Other Organic,1,8
+Other Organic,0,8
+Other Organic,0,8
+Other Organic,0,8
+Other Organic,0,8
+Other Organic,0,8
+Other Organic,0,8
+Inerts and Other,0,8
+Inerts and Other,0,8
+Inerts and Other,0,8
+Inerts and Other,0,8
+Inerts and Other,0,8
+Inerts and Other,0,8
+Inerts and Other,0,8
+Inerts and Other,0,8
+Inerts and Other,0,8
+Inerts and Other,0,8
+Household Hazardous Waste (HHW),0,8
+Household Hazardous Waste (HHW),0,8
+Household Hazardous Waste (HHW),0,8
+Household Hazardous Waste (HHW),0,8
+Household Hazardous Waste (HHW),0,8
+Special Waste,0,8
+Special Waste,0,8
+Special Waste,0,8
+Special Waste,0,8
+Special Waste,0,8
+Mixed Residue,0,8
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+Paper,2,9
+Paper,0,9
+Paper,1,9
+Paper,0,9
+Paper,0,9
+Paper,0,9
+Paper,0,9
+Paper,0,9
+Paper,0,9
+Paper,3,9
+Paper,1,9
+Glass,1,9
+Glass,0,9
+Glass,0,9
+Glass,0,9
+Glass,0,9
+Glass,0,9
+Metal,0,9
+Metal,0,9
+Metal,0,9
+Metal,0,9
+Metal,0,9
+Metal,0,9
+Metal,0,9
+Electronics,0,9
+Electronics,0,9
+Electronics,0,9
+Electronics,0,9
+Plastic,0,9
+Plastic,0,9
+Plastic,0,9
+Plastic,1,9
+Plastic,0,9
+Plastic,0,9
+Plastic,0,9
+Plastic,1,9
+Plastic,0,9
+Plastic,0,9
+Plastic,1,9
+Other Organic,12,9
+Other Organic,1,9
+Other Organic,0,9
+Other Organic,0,9
+Other Organic,0,9
+Other Organic,0,9
+Other Organic,0,9
+Other Organic,0,9
+Inerts and Other,0,9
+Inerts and Other,0,9
+Inerts and Other,0,9
+Inerts and Other,0,9
+Inerts and Other,0,9
+Inerts and Other,0,9
+Inerts and Other,0,9
+Inerts and Other,0,9
+Inerts and Other,0,9
+Inerts and Other,0,9
+Household Hazardous Waste (HHW),0,9
+Household Hazardous Waste (HHW),0,9
+Household Hazardous Waste (HHW),0,9
+Household Hazardous Waste (HHW),0,9
+Household Hazardous Waste (HHW),0,9
+Special Waste,0,9
+Special Waste,0,9
+Special Waste,0,9
+Special Waste,0,9
+Special Waste,0,9
+Mixed Residue,0,9
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+Paper,2,10
+Paper,0,10
+Paper,1,10
+Paper,0,10
+Paper,0,10
+Paper,0,10
+Paper,0,10
+Paper,0,10
+Paper,1,10
+Paper,3,10
+Paper,1,10
+Glass,1,10
+Glass,0,10
+Glass,0,10
+Glass,0,10
+Glass,0,10
+Glass,0,10
+Metal,0,10
+Metal,0,10
+Metal,0,10
+Metal,0,10
+Metal,0,10
+Metal,0,10
+Metal,0,10
+Electronics,0,10
+Electronics,0,10
+Electronics,0,10
+Electronics,0,10
+Plastic,0,10
+Plastic,0,10
+Plastic,0,10
+Plastic,1,10
+Plastic,0,10
+Plastic,0,10
+Plastic,0,10
+Plastic,1,10
+Plastic,0,10
+Plastic,0,10
+Plastic,1,10
+Other Organic,14,10
+Other Organic,1,10
+Other Organic,0,10
+Other Organic,0,10
+Other Organic,0,10
+Other Organic,0,10
+Other Organic,0,10
+Other Organic,0,10
+Inerts and Other,0,10
+Inerts and Other,0,10
+Inerts and Other,0,10
+Inerts and Other,0,10
+Inerts and Other,0,10
+Inerts and Other,0,10
+Inerts and Other,0,10
+Inerts and Other,0,10
+Inerts and Other,0,10
+Inerts and Other,0,10
+Household Hazardous Waste (HHW),0,10
+Household Hazardous Waste (HHW),0,10
+Household Hazardous Waste (HHW),0,10
+Household Hazardous Waste (HHW),0,10
+Household Hazardous Waste (HHW),0,10
+Special Waste,0,10
+Special Waste,0,10
+Special Waste,0,10
+Special Waste,0,10
+Special Waste,0,10
+Mixed Residue,0,10
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+Paper,2,11
+Paper,0,11
+Paper,1,11
+Paper,0,11
+Paper,0,11
+Paper,0,11
+Paper,0,11
+Paper,0,11
+Paper,1,11
+Paper,3,11
+Paper,1,11
+Glass,1,11
+Glass,0,11
+Glass,0,11
+Glass,0,11
+Glass,0,11
+Glass,0,11
+Metal,0,11
+Metal,0,11
+Metal,0,11
+Metal,0,11
+Metal,0,11
+Metal,0,11
+Metal,0,11
+Electronics,0,11
+Electronics,0,11
+Electronics,0,11
+Electronics,0,11
+Plastic,0,11
+Plastic,0,11
+Plastic,0,11
+Plastic,1,11
+Plastic,0,11
+Plastic,0,11
+Plastic,0,11
+Plastic,1,11
+Plastic,0,11
+Plastic,0,11
+Plastic,1,11
+Other Organic,15,11
+Other Organic,1,11
+Other Organic,0,11
+Other Organic,0,11
+Other Organic,0,11
+Other Organic,0,11
+Other Organic,0,11
+Other Organic,0,11
+Inerts and Other,0,11
+Inerts and Other,0,11
+Inerts and Other,0,11
+Inerts and Other,0,11
+Inerts and Other,0,11
+Inerts and Other,0,11
+Inerts and Other,0,11
+Inerts and Other,0,11
+Inerts and Other,0,11
+Inerts and Other,0,11
+Household Hazardous Waste (HHW),0,11
+Household Hazardous Waste (HHW),0,11
+Household Hazardous Waste (HHW),0,11
+Household Hazardous Waste (HHW),0,11
+Household Hazardous Waste (HHW),0,11
+Special Waste,0,11
+Special Waste,0,11
+Special Waste,0,11
+Special Waste,0,11
+Special Waste,0,11
+Mixed Residue,0,11
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+Paper,3,12
+Paper,0,12
+Paper,1,12
+Paper,0,12
+Paper,0,12
+Paper,0,12
+Paper,0,12
+Paper,0,12
+Paper,1,12
+Paper,4,12
+Paper,1,12
+Glass,1,12
+Glass,1,12
+Glass,1,12
+Glass,0,12
+Glass,0,12
+Glass,0,12
+Metal,0,12
+Metal,0,12
+Metal,0,12
+Metal,0,12
+Metal,0,12
+Metal,0,12
+Metal,0,12
+Electronics,0,12
+Electronics,0,12
+Electronics,0,12
+Electronics,0,12
+Plastic,0,12
+Plastic,0,12
+Plastic,0,12
+Plastic,1,12
+Plastic,0,12
+Plastic,0,12
+Plastic,0,12
+Plastic,1,12
+Plastic,0,12
+Plastic,0,12
+Plastic,1,12
+Other Organic,17,12
+Other Organic,1,12
+Other Organic,0,12
+Other Organic,0,12
+Other Organic,0,12
+Other Organic,0,12
+Other Organic,0,12
+Other Organic,0,12
+Inerts and Other,0,12
+Inerts and Other,0,12
+Inerts and Other,0,12
+Inerts and Other,0,12
+Inerts and Other,0,12
+Inerts and Other,0,12
+Inerts and Other,0,12
+Inerts and Other,0,12
+Inerts and Other,0,12
+Inerts and Other,0,12
+Household Hazardous Waste (HHW),0,12
+Household Hazardous Waste (HHW),0,12
+Household Hazardous Waste (HHW),0,12
+Household Hazardous Waste (HHW),0,12
+Household Hazardous Waste (HHW),0,12
+Special Waste,0,12
+Special Waste,0,12
+Special Waste,0,12
+Special Waste,0,12
+Special Waste,0,12
+Mixed Residue,0,12
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+Paper,3,13
+Paper,0,13
+Paper,1,13
+Paper,0,13
+Paper,0,13
+Paper,0,13
+Paper,0,13
+Paper,0,13
+Paper,1,13
+Paper,4,13
+Paper,2,13
+Glass,1,13
+Glass,1,13
+Glass,1,13
+Glass,0,13
+Glass,0,13
+Glass,0,13
+Metal,0,13
+Metal,0,13
+Metal,0,13
+Metal,0,13
+Metal,0,13
+Metal,0,13
+Metal,0,13
+Electronics,0,13
+Electronics,0,13
+Electronics,0,13
+Electronics,0,13
+Plastic,0,13
+Plastic,0,13
+Plastic,0,13
+Plastic,1,13
+Plastic,0,13
+Plastic,0,13
+Plastic,0,13
+Plastic,1,13
+Plastic,0,13
+Plastic,0,13
+Plastic,1,13
+Other Organic,18,13
+Other Organic,1,13
+Other Organic,0,13
+Other Organic,0,13
+Other Organic,0,13
+Other Organic,0,13
+Other Organic,0,13
+Other Organic,0,13
+Inerts and Other,0,13
+Inerts and Other,0,13
+Inerts and Other,0,13
+Inerts and Other,0,13
+Inerts and Other,0,13
+Inerts and Other,0,13
+Inerts and Other,0,13
+Inerts and Other,0,13
+Inerts and Other,0,13
+Inerts and Other,0,13
+Household Hazardous Waste (HHW),0,13
+Household Hazardous Waste (HHW),0,13
+Household Hazardous Waste (HHW),0,13
+Household Hazardous Waste (HHW),0,13
+Household Hazardous Waste (HHW),0,13
+Special Waste,0,13
+Special Waste,0,13
+Special Waste,0,13
+Special Waste,0,13
+Special Waste,0,13
+Mixed Residue,0,13
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+Paper,3,14
+Paper,0,14
+Paper,1,14
+Paper,0,14
+Paper,0,14
+Paper,0,14
+Paper,0,14
+Paper,0,14
+Paper,1,14
+Paper,4,14
+Paper,2,14
+Glass,1,14
+Glass,1,14
+Glass,1,14
+Glass,0,14
+Glass,0,14
+Glass,0,14
+Metal,0,14
+Metal,0,14
+Metal,0,14
+Metal,0,14
+Metal,0,14
+Metal,0,14
+Metal,0,14
+Electronics,0,14
+Electronics,0,14
+Electronics,0,14
+Electronics,0,14
+Plastic,0,14
+Plastic,0,14
+Plastic,0,14
+Plastic,1,14
+Plastic,0,14
+Plastic,0,14
+Plastic,0,14
+Plastic,1,14
+Plastic,0,14
+Plastic,0,14
+Plastic,1,14
+Other Organic,19,14
+Other Organic,1,14
+Other Organic,0,14
+Other Organic,0,14
+Other Organic,0,14
+Other Organic,0,14
+Other Organic,0,14
+Other Organic,0,14
+Inerts and Other,0,14
+Inerts and Other,0,14
+Inerts and Other,0,14
+Inerts and Other,0,14
+Inerts and Other,0,14
+Inerts and Other,0,14
+Inerts and Other,0,14
+Inerts and Other,0,14
+Inerts and Other,0,14
+Inerts and Other,0,14
+Household Hazardous Waste (HHW),0,14
+Household Hazardous Waste (HHW),0,14
+Household Hazardous Waste (HHW),0,14
+Household Hazardous Waste (HHW),0,14
+Household Hazardous Waste (HHW),0,14
+Special Waste,0,14
+Special Waste,0,14
+Special Waste,0,14
+Special Waste,0,14
+Special Waste,0,14
+Mixed Residue,0,14
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+Paper,3,15
+Paper,0,15
+Paper,1,15
+Paper,0,15
+Paper,0,15
+Paper,0,15
+Paper,0,15
+Paper,0,15
+Paper,1,15
+Paper,4,15
+Paper,2,15
+Glass,1,15
+Glass,1,15
+Glass,1,15
+Glass,0,15
+Glass,0,15
+Glass,0,15
+Metal,1,15
+Metal,0,15
+Metal,0,15
+Metal,0,15
+Metal,0,15
+Metal,0,15
+Metal,0,15
+Electronics,0,15
+Electronics,0,15
+Electronics,0,15
+Electronics,0,15
+Plastic,0,15
+Plastic,0,15
+Plastic,0,15
+Plastic,1,15
+Plastic,0,15
+Plastic,0,15
+Plastic,0,15
+Plastic,1,15
+Plastic,0,15
+Plastic,0,15
+Plastic,1,15
+Other Organic,21,15
+Other Organic,1,15
+Other Organic,0,15
+Other Organic,0,15
+Other Organic,0,15
+Other Organic,0,15
+Other Organic,0,15
+Other Organic,0,15
+Inerts and Other,0,15
+Inerts and Other,0,15
+Inerts and Other,0,15
+Inerts and Other,0,15
+Inerts and Other,0,15
+Inerts and Other,0,15
+Inerts and Other,0,15
+Inerts and Other,0,15
+Inerts and Other,0,15
+Inerts and Other,0,15
+Household Hazardous Waste (HHW),0,15
+Household Hazardous Waste (HHW),0,15
+Household Hazardous Waste (HHW),0,15
+Household Hazardous Waste (HHW),0,15
+Household Hazardous Waste (HHW),0,15
+Special Waste,0,15
+Special Waste,0,15
+Special Waste,0,15
+Special Waste,0,15
+Special Waste,0,15
+Mixed Residue,0,15
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+Paper,4,16
+Paper,0,16
+Paper,1,16
+Paper,0,16
+Paper,0,16
+Paper,0,16
+Paper,0,16
+Paper,0,16
+Paper,1,16
+Paper,5,16
+Paper,2,16
+Glass,1,16
+Glass,1,16
+Glass,1,16
+Glass,0,16
+Glass,0,16
+Glass,0,16
+Metal,1,16
+Metal,0,16
+Metal,0,16
+Metal,0,16
+Metal,0,16
+Metal,0,16
+Metal,0,16
+Electronics,0,16
+Electronics,0,16
+Electronics,0,16
+Electronics,0,16
+Plastic,0,16
+Plastic,0,16
+Plastic,0,16
+Plastic,1,16
+Plastic,0,16
+Plastic,0,16
+Plastic,0,16
+Plastic,1,16
+Plastic,0,16
+Plastic,0,16
+Plastic,1,16
+Other Organic,22,16
+Other Organic,1,16
+Other Organic,0,16
+Other Organic,0,16
+Other Organic,0,16
+Other Organic,0,16
+Other Organic,0,16
+Other Organic,0,16
+Inerts and Other,0,16
+Inerts and Other,0,16
+Inerts and Other,0,16
+Inerts and Other,0,16
+Inerts and Other,0,16
+Inerts and Other,0,16
+Inerts and Other,0,16
+Inerts and Other,0,16
+Inerts and Other,0,16
+Inerts and Other,0,16
+Household Hazardous Waste (HHW),0,16
+Household Hazardous Waste (HHW),0,16
+Household Hazardous Waste (HHW),0,16
+Household Hazardous Waste (HHW),0,16
+Household Hazardous Waste (HHW),0,16
+Special Waste,0,16
+Special Waste,0,16
+Special Waste,0,16
+Special Waste,0,16
+Special Waste,0,16
+Mixed Residue,0,16
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+Paper,4,17
+Paper,0,17
+Paper,1,17
+Paper,0,17
+Paper,0,17
+Paper,0,17
+Paper,0,17
+Paper,0,17
+Paper,1,17
+Paper,5,17
+Paper,2,17
+Glass,1,17
+Glass,1,17
+Glass,1,17
+Glass,0,17
+Glass,0,17
+Glass,0,17
+Metal,1,17
+Metal,0,17
+Metal,0,17
+Metal,0,17
+Metal,0,17
+Metal,0,17
+Metal,0,17
+Electronics,0,17
+Electronics,0,17
+Electronics,0,17
+Electronics,0,17
+Plastic,0,17
+Plastic,0,17
+Plastic,0,17
+Plastic,1,17
+Plastic,0,17
+Plastic,0,17
+Plastic,0,17
+Plastic,1,17
+Plastic,0,17
+Plastic,0,17
+Plastic,2,17
+Other Organic,23,17
+Other Organic,1,17
+Other Organic,0,17
+Other Organic,0,17
+Other Organic,0,17
+Other Organic,0,17
+Other Organic,0,17
+Other Organic,1,17
+Inerts and Other,0,17
+Inerts and Other,0,17
+Inerts and Other,0,17
+Inerts and Other,0,17
+Inerts and Other,0,17
+Inerts and Other,0,17
+Inerts and Other,0,17
+Inerts and Other,0,17
+Inerts and Other,0,17
+Inerts and Other,0,17
+Household Hazardous Waste (HHW),0,17
+Household Hazardous Waste (HHW),0,17
+Household Hazardous Waste (HHW),0,17
+Household Hazardous Waste (HHW),0,17
+Household Hazardous Waste (HHW),0,17
+Special Waste,0,17
+Special Waste,0,17
+Special Waste,0,17
+Special Waste,0,17
+Special Waste,0,17
+Mixed Residue,0,17
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+Paper,4,18
+Paper,0,18
+Paper,1,18
+Paper,0,18
+Paper,0,18
+Paper,0,18
+Paper,0,18
+Paper,0,18
+Paper,1,18
+Paper,5,18
+Paper,2,18
+Glass,1,18
+Glass,1,18
+Glass,1,18
+Glass,0,18
+Glass,0,18
+Glass,0,18
+Metal,1,18
+Metal,0,18
+Metal,0,18
+Metal,0,18
+Metal,0,18
+Metal,0,18
+Metal,0,18
+Electronics,0,18
+Electronics,0,18
+Electronics,0,18
+Electronics,0,18
+Plastic,0,18
+Plastic,0,18
+Plastic,0,18
+Plastic,1,18
+Plastic,0,18
+Plastic,0,18
+Plastic,0,18
+Plastic,2,18
+Plastic,0,18
+Plastic,0,18
+Plastic,2,18
+Other Organic,25,18
+Other Organic,1,18
+Other Organic,0,18
+Other Organic,0,18
+Other Organic,0,18
+Other Organic,0,18
+Other Organic,0,18
+Other Organic,1,18
+Inerts and Other,0,18
+Inerts and Other,0,18
+Inerts and Other,0,18
+Inerts and Other,0,18
+Inerts and Other,0,18
+Inerts and Other,0,18
+Inerts and Other,0,18
+Inerts and Other,0,18
+Inerts and Other,0,18
+Inerts and Other,0,18
+Household Hazardous Waste (HHW),0,18
+Household Hazardous Waste (HHW),0,18
+Household Hazardous Waste (HHW),0,18
+Household Hazardous Waste (HHW),0,18
+Household Hazardous Waste (HHW),0,18
+Special Waste,0,18
+Special Waste,0,18
+Special Waste,0,18
+Special Waste,0,18
+Special Waste,0,18
+Mixed Residue,0,18
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+Paper,4,19
+Paper,0,19
+Paper,1,19
+Paper,0,19
+Paper,0,19
+Paper,0,19
+Paper,0,19
+Paper,0,19
+Paper,1,19
+Paper,6,19
+Paper,2,19
+Glass,1,19
+Glass,1,19
+Glass,1,19
+Glass,0,19
+Glass,0,19
+Glass,0,19
+Metal,1,19
+Metal,0,19
+Metal,0,19
+Metal,0,19
+Metal,0,19
+Metal,0,19
+Metal,0,19
+Electronics,0,19
+Electronics,0,19
+Electronics,0,19
+Electronics,0,19
+Plastic,0,19
+Plastic,0,19
+Plastic,0,19
+Plastic,2,19
+Plastic,0,19
+Plastic,0,19
+Plastic,0,19
+Plastic,2,19
+Plastic,0,19
+Plastic,0,19
+Plastic,2,19
+Other Organic,26,19
+Other Organic,1,19
+Other Organic,0,19
+Other Organic,0,19
+Other Organic,0,19
+Other Organic,0,19
+Other Organic,0,19
+Other Organic,1,19
+Inerts and Other,0,19
+Inerts and Other,0,19
+Inerts and Other,0,19
+Inerts and Other,0,19
+Inerts and Other,0,19
+Inerts and Other,0,19
+Inerts and Other,0,19
+Inerts and Other,0,19
+Inerts and Other,0,19
+Inerts and Other,0,19
+Household Hazardous Waste (HHW),0,19
+Household Hazardous Waste (HHW),0,19
+Household Hazardous Waste (HHW),0,19
+Household Hazardous Waste (HHW),0,19
+Household Hazardous Waste (HHW),0,19
+Special Waste,0,19
+Special Waste,0,19
+Special Waste,0,19
+Special Waste,0,19
+Special Waste,0,19
+Mixed Residue,0,19
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+Paper,5,20
+Paper,0,20
+Paper,1,20
+Paper,0,20
+Paper,0,20
+Paper,0,20
+Paper,0,20
+Paper,0,20
+Paper,1,20
+Paper,6,20
+Paper,2,20
+Glass,1,20
+Glass,1,20
+Glass,1,20
+Glass,0,20
+Glass,0,20
+Glass,0,20
+Metal,1,20
+Metal,0,20
+Metal,0,20
+Metal,0,20
+Metal,0,20
+Metal,0,20
+Metal,0,20
+Electronics,0,20
+Electronics,0,20
+Electronics,0,20
+Electronics,0,20
+Plastic,0,20
+Plastic,0,20
+Plastic,0,20
+Plastic,2,20
+Plastic,0,20
+Plastic,0,20
+Plastic,0,20
+Plastic,2,20
+Plastic,0,20
+Plastic,0,20
+Plastic,2,20
+Other Organic,28,20
+Other Organic,1,20
+Other Organic,0,20
+Other Organic,0,20
+Other Organic,0,20
+Other Organic,0,20
+Other Organic,0,20
+Other Organic,1,20
+Inerts and Other,0,20
+Inerts and Other,0,20
+Inerts and Other,0,20
+Inerts and Other,0,20
+Inerts and Other,0,20
+Inerts and Other,0,20
+Inerts and Other,0,20
+Inerts and Other,0,20
+Inerts and Other,0,20
+Inerts and Other,0,20
+Household Hazardous Waste (HHW),0,20
+Household Hazardous Waste (HHW),0,20
+Household Hazardous Waste (HHW),0,20
+Household Hazardous Waste (HHW),0,20
+Household Hazardous Waste (HHW),0,20
+Special Waste,0,20
+Special Waste,0,20
+Special Waste,0,20
+Special Waste,0,20
+Special Waste,0,20
+Mixed Residue,0,20
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+Paper,5,21
+Paper,0,21
+Paper,1,21
+Paper,0,21
+Paper,0,21
+Paper,0,21
+Paper,0,21
+Paper,0,21
+Paper,1,21
+Paper,6,21
+Paper,3,21
+Glass,1,21
+Glass,1,21
+Glass,1,21
+Glass,0,21
+Glass,0,21
+Glass,0,21
+Metal,1,21
+Metal,0,21
+Metal,0,21
+Metal,0,21
+Metal,0,21
+Metal,0,21
+Metal,0,21
+Electronics,0,21
+Electronics,0,21
+Electronics,0,21
+Electronics,0,21
+Plastic,0,21
+Plastic,0,21
+Plastic,0,21
+Plastic,2,21
+Plastic,0,21
+Plastic,0,21
+Plastic,0,21
+Plastic,2,21
+Plastic,0,21
+Plastic,0,21
+Plastic,2,21
+Other Organic,29,21
+Other Organic,1,21
+Other Organic,0,21
+Other Organic,0,21
+Other Organic,0,21
+Other Organic,0,21
+Other Organic,0,21
+Other Organic,1,21
+Inerts and Other,0,21
+Inerts and Other,0,21
+Inerts and Other,0,21
+Inerts and Other,0,21
+Inerts and Other,0,21
+Inerts and Other,0,21
+Inerts and Other,0,21
+Inerts and Other,0,21
+Inerts and Other,0,21
+Inerts and Other,0,21
+Household Hazardous Waste (HHW),0,21
+Household Hazardous Waste (HHW),0,21
+Household Hazardous Waste (HHW),0,21
+Household Hazardous Waste (HHW),0,21
+Household Hazardous Waste (HHW),0,21
+Special Waste,0,21
+Special Waste,0,21
+Special Waste,0,21
+Special Waste,0,21
+Special Waste,0,21
+Mixed Residue,0,21
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+Paper,5,22
+Paper,0,22
+Paper,1,22
+Paper,0,22
+Paper,0,22
+Paper,0,22
+Paper,0,22
+Paper,0,22
+Paper,1,22
+Paper,6,22
+Paper,3,22
+Glass,1,22
+Glass,1,22
+Glass,1,22
+Glass,0,22
+Glass,0,22
+Glass,0,22
+Metal,1,22
+Metal,0,22
+Metal,0,22
+Metal,0,22
+Metal,0,22
+Metal,0,22
+Metal,0,22
+Electronics,0,22
+Electronics,0,22
+Electronics,0,22
+Electronics,0,22
+Plastic,0,22
+Plastic,0,22
+Plastic,0,22
+Plastic,2,22
+Plastic,0,22
+Plastic,0,22
+Plastic,0,22
+Plastic,2,22
+Plastic,0,22
+Plastic,0,22
+Plastic,2,22
+Other Organic,30,22
+Other Organic,2,22
+Other Organic,0,22
+Other Organic,0,22
+Other Organic,0,22
+Other Organic,0,22
+Other Organic,0,22
+Other Organic,1,22
+Inerts and Other,0,22
+Inerts and Other,0,22
+Inerts and Other,0,22
+Inerts and Other,0,22
+Inerts and Other,0,22
+Inerts and Other,0,22
+Inerts and Other,0,22
+Inerts and Other,0,22
+Inerts and Other,0,22
+Inerts and Other,0,22
+Household Hazardous Waste (HHW),0,22
+Household Hazardous Waste (HHW),0,22
+Household Hazardous Waste (HHW),0,22
+Household Hazardous Waste (HHW),0,22
+Household Hazardous Waste (HHW),0,22
+Special Waste,0,22
+Special Waste,0,22
+Special Waste,0,22
+Special Waste,0,22
+Special Waste,0,22
+Mixed Residue,0,22
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+Paper,5,23
+Paper,0,23
+Paper,2,23
+Paper,0,23
+Paper,0,23
+Paper,0,23
+Paper,0,23
+Paper,0,23
+Paper,1,23
+Paper,7,23
+Paper,3,23
+Glass,1,23
+Glass,1,23
+Glass,1,23
+Glass,0,23
+Glass,0,23
+Glass,0,23
+Metal,1,23
+Metal,0,23
+Metal,0,23
+Metal,0,23
+Metal,0,23
+Metal,0,23
+Metal,0,23
+Electronics,0,23
+Electronics,0,23
+Electronics,0,23
+Electronics,0,23
+Plastic,0,23
+Plastic,0,23
+Plastic,0,23
+Plastic,2,23
+Plastic,0,23
+Plastic,0,23
+Plastic,0,23
+Plastic,2,23
+Plastic,0,23
+Plastic,0,23
+Plastic,2,23
+Other Organic,32,23
+Other Organic,2,23
+Other Organic,0,23
+Other Organic,0,23
+Other Organic,0,23
+Other Organic,0,23
+Other Organic,0,23
+Other Organic,1,23
+Inerts and Other,0,23
+Inerts and Other,0,23
+Inerts and Other,0,23
+Inerts and Other,0,23
+Inerts and Other,0,23
+Inerts and Other,0,23
+Inerts and Other,0,23
+Inerts and Other,0,23
+Inerts and Other,0,23
+Inerts and Other,0,23
+Household Hazardous Waste (HHW),0,23
+Household Hazardous Waste (HHW),0,23
+Household Hazardous Waste (HHW),0,23
+Household Hazardous Waste (HHW),0,23
+Household Hazardous Waste (HHW),0,23
+Special Waste,0,23
+Special Waste,0,23
+Special Waste,0,23
+Special Waste,0,23
+Special Waste,0,23
+Mixed Residue,0,23
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+Paper,5,24
+Paper,0,24
+Paper,2,24
+Paper,0,24
+Paper,0,24
+Paper,0,24
+Paper,0,24
+Paper,0,24
+Paper,1,24
+Paper,7,24
+Paper,3,24
+Glass,1,24
+Glass,1,24
+Glass,1,24
+Glass,0,24
+Glass,0,24
+Glass,0,24
+Metal,1,24
+Metal,0,24
+Metal,0,24
+Metal,0,24
+Metal,0,24
+Metal,0,24
+Metal,0,24
+Electronics,0,24
+Electronics,0,24
+Electronics,0,24
+Electronics,0,24
+Plastic,1,24
+Plastic,1,24
+Plastic,0,24
+Plastic,2,24
+Plastic,0,24
+Plastic,0,24
+Plastic,0,24
+Plastic,2,24
+Plastic,0,24
+Plastic,0,24
+Plastic,2,24
+Other Organic,33,24
+Other Organic,2,24
+Other Organic,0,24
+Other Organic,0,24
+Other Organic,0,24
+Other Organic,0,24
+Other Organic,0,24
+Other Organic,1,24
+Inerts and Other,0,24
+Inerts and Other,0,24
+Inerts and Other,0,24
+Inerts and Other,0,24
+Inerts and Other,0,24
+Inerts and Other,0,24
+Inerts and Other,0,24
+Inerts and Other,0,24
+Inerts and Other,0,24
+Inerts and Other,0,24
+Household Hazardous Waste (HHW),0,24
+Household Hazardous Waste (HHW),0,24
+Household Hazardous Waste (HHW),0,24
+Household Hazardous Waste (HHW),0,24
+Household Hazardous Waste (HHW),0,24
+Special Waste,0,24
+Special Waste,0,24
+Special Waste,0,24
+Special Waste,0,24
+Special Waste,0,24
+Mixed Residue,0,24
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+Paper,6,25
+Paper,0,25
+Paper,2,25
+Paper,0,25
+Paper,0,25
+Paper,0,25
+Paper,0,25
+Paper,0,25
+Paper,1,25
+Paper,7,25
+Paper,3,25
+Glass,2,25
+Glass,1,25
+Glass,1,25
+Glass,0,25
+Glass,0,25
+Glass,0,25
+Metal,1,25
+Metal,0,25
+Metal,0,25
+Metal,0,25
+Metal,0,25
+Metal,0,25
+Metal,0,25
+Electronics,0,25
+Electronics,0,25
+Electronics,0,25
+Electronics,0,25
+Plastic,1,25
+Plastic,1,25
+Plastic,0,25
+Plastic,2,25
+Plastic,0,25
+Plastic,0,25
+Plastic,0,25
+Plastic,2,25
+Plastic,0,25
+Plastic,0,25
+Plastic,2,25
+Other Organic,34,25
+Other Organic,2,25
+Other Organic,0,25
+Other Organic,0,25
+Other Organic,0,25
+Other Organic,0,25
+Other Organic,0,25
+Other Organic,1,25
+Inerts and Other,0,25
+Inerts and Other,0,25
+Inerts and Other,0,25
+Inerts and Other,0,25
+Inerts and Other,0,25
+Inerts and Other,0,25
+Inerts and Other,0,25
+Inerts and Other,0,25
+Inerts and Other,0,25
+Inerts and Other,0,25
+Household Hazardous Waste (HHW),0,25
+Household Hazardous Waste (HHW),0,25
+Household Hazardous Waste (HHW),0,25
+Household Hazardous Waste (HHW),0,25
+Household Hazardous Waste (HHW),0,25
+Special Waste,0,25
+Special Waste,0,25
+Special Waste,0,25
+Special Waste,0,25
+Special Waste,0,25
+Mixed Residue,0,25
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA

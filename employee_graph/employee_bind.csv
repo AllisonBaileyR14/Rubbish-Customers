@@ -1,0 +1,381 @@
+material_category,material_tons_generated_sum_of_all_streams,employee_count
+Paper,1,5
+Paper,0,5
+Paper,0,5
+Paper,0,5
+Paper,0,5
+Paper,0,5
+Paper,0,5
+Paper,0,5
+Paper,0,5
+Paper,1,5
+Paper,1,5
+Glass,0,5
+Glass,0,5
+Glass,0,5
+Glass,0,5
+Glass,0,5
+Glass,0,5
+Metal,0,5
+Metal,0,5
+Metal,0,5
+Metal,0,5
+Metal,0,5
+Metal,0,5
+Metal,0,5
+Electronics,0,5
+Electronics,0,5
+Electronics,0,5
+Electronics,0,5
+Plastic,0,5
+Plastic,0,5
+Plastic,0,5
+Plastic,0,5
+Plastic,0,5
+Plastic,0,5
+Plastic,0,5
+Plastic,0,5
+Plastic,0,5
+Plastic,0,5
+Plastic,0,5
+Other Organic,7,5
+Other Organic,0,5
+Other Organic,0,5
+Other Organic,0,5
+Other Organic,0,5
+Other Organic,0,5
+Other Organic,0,5
+Other Organic,0,5
+Inerts and Other,0,5
+Inerts and Other,0,5
+Inerts and Other,0,5
+Inerts and Other,0,5
+Inerts and Other,0,5
+Inerts and Other,0,5
+Inerts and Other,0,5
+Inerts and Other,0,5
+Inerts and Other,0,5
+Inerts and Other,0,5
+Household Hazardous Waste (HHW),0,5
+Household Hazardous Waste (HHW),0,5
+Household Hazardous Waste (HHW),0,5
+Household Hazardous Waste (HHW),0,5
+Household Hazardous Waste (HHW),0,5
+Special Waste,0,5
+Special Waste,0,5
+Special Waste,0,5
+Special Waste,0,5
+Special Waste,0,5
+Mixed Residue,0,5
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+Paper,1,6
+Paper,0,6
+Paper,0,6
+Paper,0,6
+Paper,0,6
+Paper,0,6
+Paper,0,6
+Paper,0,6
+Paper,0,6
+Paper,2,6
+Paper,1,6
+Glass,0,6
+Glass,0,6
+Glass,0,6
+Glass,0,6
+Glass,0,6
+Glass,0,6
+Metal,0,6
+Metal,0,6
+Metal,0,6
+Metal,0,6
+Metal,0,6
+Metal,0,6
+Metal,0,6
+Electronics,0,6
+Electronics,0,6
+Electronics,0,6
+Electronics,0,6
+Plastic,0,6
+Plastic,0,6
+Plastic,0,6
+Plastic,0,6
+Plastic,0,6
+Plastic,0,6
+Plastic,0,6
+Plastic,1,6
+Plastic,0,6
+Plastic,0,6
+Plastic,1,6
+Other Organic,8,6
+Other Organic,0,6
+Other Organic,0,6
+Other Organic,0,6
+Other Organic,0,6
+Other Organic,0,6
+Other Organic,0,6
+Other Organic,0,6
+Inerts and Other,0,6
+Inerts and Other,0,6
+Inerts and Other,0,6
+Inerts and Other,0,6
+Inerts and Other,0,6
+Inerts and Other,0,6
+Inerts and Other,0,6
+Inerts and Other,0,6
+Inerts and Other,0,6
+Inerts and Other,0,6
+Household Hazardous Waste (HHW),0,6
+Household Hazardous Waste (HHW),0,6
+Household Hazardous Waste (HHW),0,6
+Household Hazardous Waste (HHW),0,6
+Household Hazardous Waste (HHW),0,6
+Special Waste,0,6
+Special Waste,0,6
+Special Waste,0,6
+Special Waste,0,6
+Special Waste,0,6
+Mixed Residue,0,6
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+Paper,2,7
+Paper,0,7
+Paper,0,7
+Paper,0,7
+Paper,0,7
+Paper,0,7
+Paper,0,7
+Paper,0,7
+Paper,0,7
+Paper,2,7
+Paper,1,7
+Glass,0,7
+Glass,0,7
+Glass,0,7
+Glass,0,7
+Glass,0,7
+Glass,0,7
+Metal,0,7
+Metal,0,7
+Metal,0,7
+Metal,0,7
+Metal,0,7
+Metal,0,7
+Metal,0,7
+Electronics,0,7
+Electronics,0,7
+Electronics,0,7
+Electronics,0,7
+Plastic,0,7
+Plastic,0,7
+Plastic,0,7
+Plastic,1,7
+Plastic,0,7
+Plastic,0,7
+Plastic,0,7
+Plastic,1,7
+Plastic,0,7
+Plastic,0,7
+Plastic,1,7
+Other Organic,10,7
+Other Organic,0,7
+Other Organic,0,7
+Other Organic,0,7
+Other Organic,0,7
+Other Organic,0,7
+Other Organic,0,7
+Other Organic,0,7
+Inerts and Other,0,7
+Inerts and Other,0,7
+Inerts and Other,0,7
+Inerts and Other,0,7
+Inerts and Other,0,7
+Inerts and Other,0,7
+Inerts and Other,0,7
+Inerts and Other,0,7
+Inerts and Other,0,7
+Inerts and Other,0,7
+Household Hazardous Waste (HHW),0,7
+Household Hazardous Waste (HHW),0,7
+Household Hazardous Waste (HHW),0,7
+Household Hazardous Waste (HHW),0,7
+Household Hazardous Waste (HHW),0,7
+Special Waste,0,7
+Special Waste,0,7
+Special Waste,0,7
+Special Waste,0,7
+Special Waste,0,7
+Mixed Residue,0,7
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+Paper,2,8
+Paper,0,8
+Paper,1,8
+Paper,0,8
+Paper,0,8
+Paper,0,8
+Paper,0,8
+Paper,0,8
+Paper,0,8
+Paper,2,8
+Paper,1,8
+Glass,0,8
+Glass,0,8
+Glass,0,8
+Glass,0,8
+Glass,0,8
+Glass,0,8
+Metal,0,8
+Metal,0,8
+Metal,0,8
+Metal,0,8
+Metal,0,8
+Metal,0,8
+Metal,0,8
+Electronics,0,8
+Electronics,0,8
+Electronics,0,8
+Electronics,0,8
+Plastic,0,8
+Plastic,0,8
+Plastic,0,8
+Plastic,1,8
+Plastic,0,8
+Plastic,0,8
+Plastic,0,8
+Plastic,1,8
+Plastic,0,8
+Plastic,0,8
+Plastic,1,8
+Other Organic,11,8
+Other Organic,1,8
+Other Organic,0,8
+Other Organic,0,8
+Other Organic,0,8
+Other Organic,0,8
+Other Organic,0,8
+Other Organic,0,8
+Inerts and Other,0,8
+Inerts and Other,0,8
+Inerts and Other,0,8
+Inerts and Other,0,8
+Inerts and Other,0,8
+Inerts and Other,0,8
+Inerts and Other,0,8
+Inerts and Other,0,8
+Inerts and Other,0,8
+Inerts and Other,0,8
+Household Hazardous Waste (HHW),0,8
+Household Hazardous Waste (HHW),0,8
+Household Hazardous Waste (HHW),0,8
+Household Hazardous Waste (HHW),0,8
+Household Hazardous Waste (HHW),0,8
+Special Waste,0,8
+Special Waste,0,8
+Special Waste,0,8
+Special Waste,0,8
+Special Waste,0,8
+Mixed Residue,0,8
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+Paper,2,9
+Paper,0,9
+Paper,1,9
+Paper,0,9
+Paper,0,9
+Paper,0,9
+Paper,0,9
+Paper,0,9
+Paper,0,9
+Paper,3,9
+Paper,1,9
+Glass,1,9
+Glass,0,9
+Glass,0,9
+Glass,0,9
+Glass,0,9
+Glass,0,9
+Metal,0,9
+Metal,0,9
+Metal,0,9
+Metal,0,9
+Metal,0,9
+Metal,0,9
+Metal,0,9
+Electronics,0,9
+Electronics,0,9
+Electronics,0,9
+Electronics,0,9
+Plastic,0,9
+Plastic,0,9
+Plastic,0,9
+Plastic,1,9
+Plastic,0,9
+Plastic,0,9
+Plastic,0,9
+Plastic,1,9
+Plastic,0,9
+Plastic,0,9
+Plastic,1,9
+Other Organic,12,9
+Other Organic,1,9
+Other Organic,0,9
+Other Organic,0,9
+Other Organic,0,9
+Other Organic,0,9
+Other Organic,0,9
+Other Organic,0,9
+Inerts and Other,0,9
+Inerts and Other,0,9
+Inerts and Other,0,9
+Inerts and Other,0,9
+Inerts and Other,0,9
+Inerts and Other,0,9
+Inerts and Other,0,9
+Inerts and Other,0,9
+Inerts and Other,0,9
+Inerts and Other,0,9
+Household Hazardous Waste (HHW),0,9
+Household Hazardous Waste (HHW),0,9
+Household Hazardous Waste (HHW),0,9
+Household Hazardous Waste (HHW),0,9
+Household Hazardous Waste (HHW),0,9
+Special Waste,0,9
+Special Waste,0,9
+Special Waste,0,9
+Special Waste,0,9
+Special Waste,0,9
+Mixed Residue,0,9
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
