@@ -1,0 +1,12 @@
+name: rubbish_restaurant
+title: rubbish_restaurant
+username:
+account: allison-bailey
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3796402
+bundleId: 4349968
+url: https://allison-bailey.shinyapps.io/rubbish_restaurant/
+when: 1615845827.07744
+asMultiple: FALSE
+asStatic: FALSE
