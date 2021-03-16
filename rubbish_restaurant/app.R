@@ -111,6 +111,11 @@ employee_waste <- write_csv(employee_bind, 'employee_bind.csv') %>%
     filter(material_category == 'Paper'| material_category == 'Plastic' |
                material_category == 'Glass'| material_category == 'Other Organic' |
                material_category == 'Metal')
+
+employee_waste$material_category[employee_waste$material_category == "Other Organic"] = "Food"
+
+
+
 #sum(material_tons_generated_sum_of_all_streams)
 
 #########################3
@@ -268,7 +273,7 @@ server <- function(input, output) {
                                              x = material_category)) +
             geom_bar(stat = "identity", show.legend = TRUE) +
             theme_minimal() +
-            scale_fill_manual("legend", values = c("Other Organic" = "#bb5731",
+            scale_fill_manual("legend", values = c("Food" = "#bb5731",
                                                    "Plastic" = "#21322a",
                                                    "Glass" = "#829719",
                                                    "Paper" = "#7a8f76",
